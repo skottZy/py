@@ -1,3 +1,9 @@
+'''
+author: skottZy
+date: 2020/11/23
+sumarry: test1.py
+'''
+
 import time
 
 n = int(1e8)
